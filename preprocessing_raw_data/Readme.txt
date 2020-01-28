@@ -1,6 +1,6 @@
 This folder contains the source code to preprocess the raw data. The following steps explain how to proceed: 
 
-1) Download the raw data from https://neuromatdb.numec.prp.usp.br/experiments/dataset-and-metadata-of-the-article-context-tree-selection-for-functional-data/.
+1) Download the raw data from https://drive.google.com/open?id=1sgcGKPoyXpitog96V64wh216WjG1TeHa
 
 2) Specify in the EEG_processing.m script the directory in which the raw data were saved (base_rootdir) and the directory to save the resulting preprocessed data (base_destdir).
 
