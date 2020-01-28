@@ -2,7 +2,7 @@ This folder contains the source code used in the statistical analysis.
 
 ## PREPROCESSED_DATA
 
-1) Download the preprocessed data from XXX to the folder preprocessed_data
+1) Download the preprocessed data from https://drive.google.com/open?id=1sgcGKPoyXpitog96V64wh216WjG1TeHa
 
 or
 
