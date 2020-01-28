@@ -6,7 +6,7 @@ This folder contains the source code used in the statistical analysis.
 
 or
 
-2) Follows the instructions given in the Readme file inside the folder "preprocessing of raw data" to obtain the preprocessed data.
+2) Follows the instructions given in the Readme file inside the folder "preprocessing_raw_data" to generate the preprocessed data.
 
 
 ##  SOURCE CODE
