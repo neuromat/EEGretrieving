@@ -1,8 +1,8 @@
 This folder contains the source code used in the statistical analysis.
 
-## PREPROCESSED_DATA
+## GET THE PREPROCESSED_DATA
 
-1) Download the preprocessed data from https://drive.google.com/open?id=1sgcGKPoyXpitog96V64wh216WjG1TeHa
+1) Download the preprocessed data from https://neuromat.numec.prp.usp.br/neuromatdb/EEGretrieving/ to this folder
 
 or
 
@@ -31,6 +31,3 @@ The rest of .m files are auxiliary functions used in the implementation of estim
 - completetree.m and is_leaf.m: compute a complete tree.
 - stat_ks_projective.m: compute the statistic used to decide if a branch is pruned or not during the punning procedure involved in the model selection algorithm. 
 
-
-
- 
