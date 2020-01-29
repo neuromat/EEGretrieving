@@ -1,6 +1,6 @@
 This folder contains the source code to preprocess the raw data. The following steps explain how to proceed: 
 
-1) Download the raw data from https://drive.google.com/open?id=1sgcGKPoyXpitog96V64wh216WjG1TeHa
+1) Download the raw data from https://neuromat.numec.prp.usp.br/neuromatdb/EEGretrieving/
 
 2) Specify in the EEG_processing.m script the directory in which the raw data were saved (base_rootdir) and the directory to save the resulting preprocessed data (base_destdir).
 
@@ -16,5 +16,3 @@ This folder contains the source code to preprocess the raw data. The following s
 
 -- Y_qua: A cell array containing the segmented/preprocessed EEG data recorded while the participant listened to the sequence of stimuli of the Quaternary condition. The first row contains the electrodes considered in the statistical analysis. The second row contains a matrix per electrode with the EEG chunks (one per column) corresponding to each stimulus from the sequence of stimuli. The number of columns of these matrices matches the length of the sequence of stimuli.
 
-
- 
