@@ -55,5 +55,5 @@ mode_context_tree_ter = cell(18,1);     % mode context tree for each electrode
 
 for e = 1 : 18
     trees = tree_array_ter(:,e);
-	mode_context_tree_ter(e) = mode_tree(trees, A);
+	mode_context_tree_ter{e} = mode_tree(trees, A);
 end
